@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWS_WebApp", "AWS_WebApp\AWS_WebApp.csproj", "{A51EF117-C114-4D0C-9503-80971CDE3C55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWS_WebApp.Tests", "AWS_WebApp.Tests\AWS_WebApp.Tests.csproj", "{9AE87D23-6A43-4EDC-91C7-09F2EB4F54EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWS_WebApp.Services", "AWS_WebApp.Services\AWS_WebApp.Services.csproj", "{0135CFDD-3524-4EA7-A4DC-FFA04F002245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A51EF117-C114-4D0C-9503-80971CDE3C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51EF117-C114-4D0C-9503-80971CDE3C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51EF117-C114-4D0C-9503-80971CDE3C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51EF117-C114-4D0C-9503-80971CDE3C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE87D23-6A43-4EDC-91C7-09F2EB4F54EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE87D23-6A43-4EDC-91C7-09F2EB4F54EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE87D23-6A43-4EDC-91C7-09F2EB4F54EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE87D23-6A43-4EDC-91C7-09F2EB4F54EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0135CFDD-3524-4EA7-A4DC-FFA04F002245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0135CFDD-3524-4EA7-A4DC-FFA04F002245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0135CFDD-3524-4EA7-A4DC-FFA04F002245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0135CFDD-3524-4EA7-A4DC-FFA04F002245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
